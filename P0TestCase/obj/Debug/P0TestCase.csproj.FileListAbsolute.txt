@@ -1,0 +1,7 @@
+E:\file\dev\codedui\P0TestCase\P0TestCase\bin\Debug\P0TestCase.dll
+E:\file\dev\codedui\P0TestCase\P0TestCase\bin\Debug\P0TestCase.pdb
+E:\file\dev\codedui\P0TestCase\P0TestCase\obj\Debug\P0TestCase.csproj.CoreCompileInputs.cache
+E:\file\dev\codedui\P0TestCase\P0TestCase\obj\Debug\P0TestCase.dll
+E:\file\dev\codedui\P0TestCase\P0TestCase\obj\Debug\P0TestCase.pdb
+E:\file\dev\codedui\P0TestCase\P0TestCase\bin\Debug\P0TestCase.dll.config
+E:\file\dev\codedui\P0TestCase\P0TestCase\obj\Debug\P0TestCase.csprojAssemblyReference.cache
